@@ -2,6 +2,17 @@
 ## Screenshot
 <img width="1633" alt="Screenshot_for_challenege_10" src="https://github.com/Veladare/laudTheSVGMaker/assets/126302466/41a2f7b7-c3f3-4033-b451-3342905a93c0">
 
+## Table of Contents
+  
+* [Installation](#installation)
+* [Usage](#usage)
+* [Credits](#credits)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+
+
 ## Description
 
 The purpose of this project is to generate a graphic design by fill out a questionnaire. By doing this, user will be able to create a image without the need to pay for a graphic designer. 
@@ -9,7 +20,7 @@ The purpose of this project is to generate a graphic design by fill out a questi
 In completing this project, I gained a better understanding of how to use classes and how to extend those classes into other classes. I learned how to perform test, not only to ensure that my code works properly, but also to have a greater understanding of how my code works. 
 ## Installation 
 
-To use, install npm and npm inquirer in VScode or similiar program
+To use, install npm and npm inquirer (version 8.2.4) in VScode or similiar program
 
 ## Usage
 
