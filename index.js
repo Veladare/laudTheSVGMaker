@@ -31,16 +31,6 @@ const questions = [
   }
 ];
 
-function writeToFile(fileName, data) {
-  fs.writeFile(fileName, data, (err) => {
-    if (err) {
-      console.log(err);
-    } else {
-      console.log('File successfully written:', fileName);
-    }
-  });
-}
-
 
 function init() {
   inquirer.prompt(questions).then((data) => {
@@ -63,7 +53,8 @@ function init() {
     svgplus.setTextElement(data.textcolor, data.title);
     svgplus.setShapeElement(user_shape);
     const svgString = svgplus.render();
-    writeToFile('logo.svg', svgString);
+    fs.writeFileSync('logo.svg', svgString);
+    console.log('File "logo.svg" written successfully!');
   });
 }
 
