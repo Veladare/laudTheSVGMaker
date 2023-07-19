@@ -36,4 +36,4 @@ Please refer to the LICENSE in the repo.
 
 ## Test
 Embedded Video [Video demo of laudSVGMaker](https://github.com/Veladare/laudTheSVGMaker/assets/126302466/6b080f65-4140-4c4f-871c-8b38192264dd)
-Video link [Video demo of laudSVGMaker](https://app.screencastify.com/manage/videos/qhhyoZMF5UFShADKjzuF)
+Video link [Video demo of laudSVGMaker](https://drive.google.com/file/d/1y2lkxhEv7auUF2W7d2Ii0cE527hX_5w_/view)
